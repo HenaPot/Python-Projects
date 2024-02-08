@@ -1,0 +1,33 @@
+/********************** TRAG SELECTORS *********************/
+
+h1 { color: red; font-size: 70px;}
+
+img:hover {
+background-color: gold;
+}
+
+
+/****************** CLASS SELECTORS ************************/
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+.resize {
+    width: 200px;
+    height: 200px;
+}
+
+.circular {
+    border-radius: 20%;
+}
+
+/******************** ID SELECTORS ***********************/
+
+#heading {
+    color: purple;
+}
